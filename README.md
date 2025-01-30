@@ -6,7 +6,7 @@
 - Quick Sort
 - Merge Sort
 
-Hosted Link -
+Hosted Link -https://manikumar363.github.io/Sorting--Visualizer/
 
 
 
